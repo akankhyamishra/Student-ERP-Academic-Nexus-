@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pusher/pusher-php-server": "^7.2",
+        "cboden/ratchet": "^0.4.4",
+        "firebase/php-jwt": "^6.10"
+    }
+}
